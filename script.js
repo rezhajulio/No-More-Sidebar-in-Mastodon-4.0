@@ -2,6 +2,7 @@
 // @name        No More Sidebar in Mastodon 4.0
 // @namespace   Violentmonkey Scripts
 // @match       https://mas.to/*
+// @match       https://pegelinux.top/*
 // @match       https://bgme.me/*
 // @match       https://bgme.bid/*
 // @match       https://0rz.one/*
